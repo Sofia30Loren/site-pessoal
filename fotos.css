@@ -1,0 +1,254 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: Verdana;
+	font-size: 12px;
+}
+h1{
+	color: #BB0022;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 20px;
+}
+#jogos{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#topo{
+	width: 978px;
+	height: 150px;
+	background-color: #444;
+	border: 1px solid #FF9933;
+}
+#foto{
+	margin: 15px 25px 0px 35px;
+	height: 110px;
+	width: 110px;
+	border-radius: 55px;
+	border: 3px solid #DFAEFC;
+	float: left;
+}
+#logo{
+	width: 350px;
+	height: 60px;
+	margin-top: 20px;
+}
+.slogan{
+	font-style: italic;
+	font-size: 20px;
+	font-weight: 600;
+	color: #CCCCFF;
+}
+#menu{
+	background: #FF9933;
+	width: 980px;
+	height: 45px;
+}
+#menu ul li{
+	float: left;
+    list-style-type: none;
+}
+#menu ul li a{
+	font-size: 18px;
+	width: 190px;
+	display: block;
+	text-align: center;
+	color: #FFF;
+	text-decoration: none;
+	padding: 10px 3px;
+}
+#menu ul li a:hover{
+	color: #FF9933;
+	font-size: 20px;
+	background-color: #EEE;
+}
+#jogos{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#jogos p{
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FF9933;
+}
+#jogos img{
+	float: left;
+}
+#destaques{
+	background: #FFF;
+	border: 1px solid #FF9933;
+	width: 978px;
+	height: 525px;
+}
+#gostos{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#gostos h2{
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#gostos p{
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FF9933;
+}
+#gostos a{
+	color: #FFF;
+	font-size: 18px;
+}
+#CardiB{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#CardiB h2{
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#CardiB a{
+	color: #FFF;
+	font-size: 18px;
+}
+#ozzy{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#ozzy h2{
+	border: #FF9933 5px;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#ozzy img{
+	border: #FF9933 5px;
+}
+#kuro{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#kuro h2{
+	border: #FF9933 5px;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#kuro img{
+	border: #FF9933 5px;
+}
+#mae{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#mae h2{
+	border: #FF9933 5px;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#mae img{
+	border: #FF9933 5px;
+}
+#mi{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#mi h2{
+	border: #FF9933 5px;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#mi img{
+	border: #FF9933 5px;
+}
+#pai{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#pai h2{
+	border: #FF9933 5px;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#pai img{
+	border: #FF9933 5px;
+}
+#lari{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#lari h2{
+	border: #FF9933 5px;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#lari img{
+	border: #FF9933 5px;
+}
+#amigos{
+	background: #444;
+	border: 1px solid #FF9933;
+	width: 978px;
+}
+#amigos h2{
+	border: #FF9933 5px;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	padding: 20px 50px;
+	color: #FFf;
+}
+#amigos img{
+	border: #FF9933 5px;
+}
+#rodape{
+	font-size: 14px;
+	width: 980px;
+	padding: 15px 0 20px;
+	background: #FF9933;
+	text-align: center;
+}
+#rodape p{
+	color: #FFF;
+}
+#tudo{
+	width: 980px;
+	border: 1px solid #555;
+	margin: auto;
+}
